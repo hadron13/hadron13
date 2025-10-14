@@ -4,8 +4,8 @@
 ### have experience with:
 -  3D graphics programming (OpenGL)
 -  digital logic / computer architecture (custom 6502 computer)
--  Minecraft modding
--  game engine design (my latest being [Slate](https://github.com/hadron13/Slate)
+-  Minecraft modding - [modpack](https://github.com/Back-on-Track-Team/BackOnTrack) / [mod](https://github.com/hadron13/Gearbox)
+-  game engine design (my latest being [Slate](https://github.com/hadron13/Slate))
 -  PCB design in KiCAD
 
 <div align="center">
