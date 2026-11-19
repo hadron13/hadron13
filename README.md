@@ -1,12 +1,14 @@
 ## About me
 - hobbyst gamedev & embedded enthusiast
-- program in C/C++, Odin, Java, GLSL, C#, Assembly (6502, bit of x86), JS
+- program in C/C++, Odin, Java, GLSL, C#, Assembly (6502, x86, ARM), JS
 ### have experience with:
 -  3D graphics programming (OpenGL)
--  digital logic / computer architecture (custom 6502 computer)
--  Minecraft modding - [modpack](https://github.com/Back-on-Track-Team/BackOnTrack) / [mod](https://github.com/hadron13/Gearbox) / etc (>1.2M combined downloads)
--  game engine design (my latest being [Slate](https://github.com/hadron13/Slate))
+-  General electronics, digital logic, computer architecture, communication protocols
+-  STM32, AVR, CH32 microcontrollers
 -  PCB design in KiCAD
+-  Minecraft modding - [modpack](https://github.com/Back-on-Track-Team/BackOnTrack) / [mod](https://github.com/hadron13/Gearbox) / etc (>2M combined downloads)
+-  game engine design (my latest being [Slate](https://github.com/hadron13/Slate))
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hadron13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
