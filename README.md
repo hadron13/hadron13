@@ -5,7 +5,7 @@
 -  3D graphics programming (OpenGL)
 -  General electronics, digital logic, computer architecture, communication protocols
 -  STM32, AVR, CH32 microcontrollers
--  PCB design in KiCAD
+-  PCB design in KiCAD - [STM32 calculator](https://github.com/hadron13/DasMicocalc)
 -  Minecraft modding - [modpack](https://github.com/Back-on-Track-Team/BackOnTrack) / [mod](https://github.com/hadron13/Gearbox) / etc (>2M combined downloads)
 -  game engine design (my latest being [Slate](https://github.com/hadron13/Slate))
 
